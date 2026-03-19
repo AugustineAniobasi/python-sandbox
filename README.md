@@ -1,14 +1,14 @@
 # Python Sandbox 🐍
 
 This repository is my personal space for:
-- ✏️ Writing and testing Python functions
-- 📚 Taking notes on concepts I learn
-- 🔬 Experimenting with new ideas
-- 💾 Saving useful code snippets
+- Writing and testing Python functions
+- Taking notes on concepts I learn
+- Experimenting with new ideas
+- Saving useful code snippets
 - Writing articles
 
-## Folder structure
----
+## Directory structure
+```
 python-sandbox/
 ├── experiments/        # Functions you're playing with
 ├── notes/              # Write-ups and explanations
@@ -18,5 +18,6 @@ python-sandbox/
 ├── notes/              # Write-ups and explanations
 ├── snippets/           # Useful code pieces
 └── projects/           # Larger practice projects
----
+```
+
 
