@@ -1,4 +1,4 @@
-
+#A program that determines if a number is even or odd without using functions
 
 numbers = [22, 45, 47, 49, 54] # This is a list in python that contains a list of numbers
 
@@ -29,9 +29,9 @@ else:
 
 
 if numbers[3] % 2 == 0:
-  print(f"The number {numbers[3]} is even")
+  print(f"The number {numbers[4]} is even")
 else:
-  print(f"The number {numbers[3]} is odd")
+  print(f"The number {numbers[4]} is odd")
 
 
  
